@@ -18,5 +18,8 @@
 - [AI算法实验室手册-华校专](http://www.huaxiaozhuan.com/)
 - [完备的 AI 学习路线，最详细的资源整理-ApacheCN,Datawhale](https://mp.weixin.qq.com/s/fUNDdCzJrWBoKYh1tT4gSw)
 
+## NLP
+- [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
+
 ## tools
 - [Imagine图片优化](https://github.com/meowtec/Imagine)
