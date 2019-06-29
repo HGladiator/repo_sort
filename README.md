@@ -17,6 +17,7 @@
 - [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 - [AI算法实验室手册-华校专](http://www.huaxiaozhuan.com/)
 - [完备的 AI 学习路线，最详细的资源整理-ApacheCN,Datawhale](https://mp.weixin.qq.com/s/fUNDdCzJrWBoKYh1tT4gSw)
+- [机器学习&深度学习资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 
 ## NLP
 - [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
