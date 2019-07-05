@@ -17,6 +17,7 @@
 - [AI算法实验室手册-华校专](http://www.huaxiaozhuan.com/)
 - [完备的 AI 学习路线，最详细的资源整理-ApacheCN,Datawhale](https://mp.weixin.qq.com/s/fUNDdCzJrWBoKYh1tT4gSw)
 - [机器学习&深度学习资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+- [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 
 ## 资料总结
 - [资料总结1](https://github.com/linxid/Machine_Learning_Study_Path)
