@@ -24,6 +24,7 @@
 
 # DL框架
 - [tensorlayer](https://github.com/tensorlayer/tensorlayer)
+- [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples)
 
 ## NLP
 - [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
