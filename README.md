@@ -18,7 +18,7 @@
 - [完备的 AI 学习路线，最详细的资源整理-ApacheCN,Datawhale](https://mp.weixin.qq.com/s/fUNDdCzJrWBoKYh1tT4gSw)
 - [机器学习&深度学习资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml)
-
+- [刘建平Pinard的博客配套代码](https://github.com/ljpzzz/machinelearning)
 ## 面试
 - [关于Python的面试题](https://github.com/taizilongxu/interview_python)
 - [一线大厂面试资料](https://github.com/0voice/interview_internal_reference)
