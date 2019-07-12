@@ -7,7 +7,7 @@
  - [Python资源大全中文版](https://github.com/jobbole/awesome-python-cn)
  - [Python各文档汇总](https://github.com/ictar/python-doc)
  - [各网站Python登陆模块](https://github.com/CriseLYJ/awesome-python-login-model)
- - [关于Python的面试题](https://github.com/taizilongxu/interview_python)
+
  - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 
 ## ML 
@@ -19,12 +19,17 @@
 - [机器学习&深度学习资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 
+## 面试
+- [关于Python的面试题](https://github.com/taizilongxu/interview_python)
+- [一线大厂面试资料](https://github.com/0voice/interview_internal_reference)
+
 ## 资料总结
 - [资料总结1](https://github.com/linxid/Machine_Learning_Study_Path)
 
 # DL框架
 - [tensorlayer](https://github.com/tensorlayer/tensorlayer)
 - [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples)
+- [mlflow](https://github.com/mlflow/mlflow/tree/master/examples)
 
 ## NLP
 - [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
