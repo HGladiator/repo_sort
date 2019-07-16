@@ -27,6 +27,9 @@
 ## NLP
 - [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
 
+## 计算广告
+- [阿里开源点击率预估deepmcp](https://github.com/oywtece/deepmcp)
+
 ## 面试
 - [关于Python的面试题](https://github.com/taizilongxu/interview_python)
 - [一线大厂面试资料](https://github.com/0voice/interview_internal_reference)
