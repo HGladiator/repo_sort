@@ -23,7 +23,7 @@
 - [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples)
 - [mlflow](https://github.com/mlflow/mlflow/tree/master/examples)
 - [Keras教程](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
-
+- [VScode xtext-dnn](https://github.com/Xpitfire/xtext-dnn)
 ## NLP
 - [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
 
