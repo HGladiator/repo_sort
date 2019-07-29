@@ -26,6 +26,7 @@
 - [VScode xtext-dnn](https://github.com/Xpitfire/xtext-dnn)
 ## NLP
 - [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
+- [医疗机器人](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 
 ## 计算广告
 - [阿里开源点击率预估deepmcp](https://github.com/oywtece/deepmcp)
