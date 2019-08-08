@@ -27,6 +27,7 @@
 ## NLP
 - [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
 - [医疗机器人](https://github.com/liuhuanyong/QASystemOnMedicalKG)
+- [Jiagu深度学习自然语言处理工具](https://github.com/ownthink/Jiagu)
 
 ## 计算广告
 - [阿里开源点击率预估deepmcp](https://github.com/oywtece/deepmcp)
