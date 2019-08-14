@@ -18,6 +18,9 @@
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 - [刘建平Pinard的博客配套代码](https://github.com/ljpzzz/machinelearning)
 
+## AL
+- [强化学习教程](https://github.com/dennybritz/reinforcement-learning)
+
 # DL框架
 - [tensorlayer](https://github.com/tensorlayer/tensorlayer)
 - [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples)
