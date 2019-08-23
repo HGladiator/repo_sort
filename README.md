@@ -21,19 +21,28 @@
 ## AL
 - [强化学习教程](https://github.com/dennybritz/reinforcement-learning)
 
-# DL框架
+## DL
+- [深度学习入门教程](https://github.com/Mikoto10032/DeepLearning)
+
+## DL框架
 - [tensorlayer](https://github.com/tensorlayer/tensorlayer)
 - [amazon-sagemaker-examples](https://github.com/awslabs/amazon-sagemaker-examples)
 - [mlflow](https://github.com/mlflow/mlflow/tree/master/examples)
 - [Keras教程](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 - [VScode xtext-dnn](https://github.com/Xpitfire/xtext-dnn)
+- [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
+
 ## NLP
 - [BERT模型从训练到部署全流程](https://github.com/xmxoxo/BERT-train2deploy)
 - [医疗机器人](https://github.com/liuhuanyong/QASystemOnMedicalKG)
 - [Jiagu深度学习自然语言处理工具](https://github.com/ownthink/Jiagu)
+- [中文自然语言处理工具集](https://github.com/kidden/nlp4han)
 
 ## 计算广告
 - [阿里开源点击率预估deepmcp](https://github.com/oywtece/deepmcp)
+
+## ACM
+- [stanfordacm](https://github.com/jaehyunp/stanfordacm)
 
 ## 面试
 - [关于Python的面试题](https://github.com/taizilongxu/interview_python)
@@ -42,12 +51,12 @@
 ## 资料总结
 - [资料总结1](https://github.com/linxid/Machine_Learning_Study_Path)
 
-### 爬虫
+## 爬虫
 - [各网站Python登陆模块](https://github.com/CriseLYJ/awesome-python-login-model)
 - [自建free爬虫代理池](https://github.com/jhao104/proxy_pool)
 
 ## tools
 - [Imagine图片优化](https://github.com/meowtec/Imagine)
-
+- [中华字典词库](https://github.com/pwxcoo/chinese-xinhua)
 ## 图Graph
 - [股票市场知识图谱](https://github.com/lemonhu/stock-knowledge-graph)
