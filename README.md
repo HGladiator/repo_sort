@@ -58,5 +58,11 @@
 ## tools
 - [Imagine图片优化](https://github.com/meowtec/Imagine)
 - [中华字典词库](https://github.com/pwxcoo/chinese-xinhua)
+
 ## 图Graph
 - [股票市场知识图谱](https://github.com/lemonhu/stock-knowledge-graph)
+
+## 数字货币
+- [EthFans](https://github.com/EthFans/wiki/)
+- [《精通比特币》第二版 区块链研习社](https://github.com/tianmingyun/MasterBitcoin2CN)
+- [Awesome Blockchain Articles](https://github.com/hylinux1024/awesome-blockchain-articles)
