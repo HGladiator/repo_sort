@@ -7,6 +7,7 @@
  - [Python资源大全中文版](https://github.com/jobbole/awesome-python-cn)
  - [Python各文档汇总](https://github.com/ictar/python-doc)
  - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+ - [莫烦Python](https://github.com/MorvanZhou/tutorials)
 
 ## ML 
 - [TensorFlow中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
@@ -47,6 +48,8 @@
 ## 面试
 - [关于Python的面试题](https://github.com/taizilongxu/interview_python)
 - [一线大厂面试资料](https://github.com/0voice/interview_internal_reference)
+- [技术面试必备基础知识汇总](https://github.com/CyC2018/CS-Notes)
+- [校招算法面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 
 ## 资料总结
 - [资料总结1](https://github.com/linxid/Machine_Learning_Study_Path)
