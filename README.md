@@ -18,6 +18,7 @@
 - [机器学习&深度学习资料](https://github.com/ty4z2008/Qix/blob/master/dl.md)
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml)
 - [刘建平Pinard的博客配套代码](https://github.com/ljpzzz/machinelearning)
+- [DMTK工具包](https://github.com/Microsoft/DMTK)
 
 ## AL
 - [强化学习教程](https://github.com/dennybritz/reinforcement-learning)
